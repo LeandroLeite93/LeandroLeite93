@@ -17,6 +17,6 @@
    <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div><br>
 
-Profissional de TI em última atuação foi de QA Sistemas Embarcados com ênfase em Linux e com conhecimento em Infraestrutura de Redes, Firmwares e SQL. Atualmente estudando Linux e as linguagens de programação Shell Script, C & C++
+Profissional de TI em última atuação foi de QA Sistemas Embarcados com ênfase em Linux e com conhecimento em Infraestrutura, Redes, Firmwares e SQL. Atualmente estudando Linux e as linguagens de programação Shell Script, C & C++
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLeite93&hide_progress=true)
