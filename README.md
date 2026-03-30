@@ -2,8 +2,6 @@
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-pinheiro-leite-277265195/)
 
-![LeandroLeite93 GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroLeite93&show_icons=true&theme=synthwave)
-
 ### Tecnologias Que eu Utilizo 
 <div style="display: iniline_block"><br/>
  <img align="center" alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
