@@ -15,4 +15,3 @@
 
 Analista Programador de Sistemas Embarcados. No momento atuando em projetos de meio de pagamentos com a Visa. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLeite93&hide_progress=true)
