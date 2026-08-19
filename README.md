@@ -1,14 +1,16 @@
-### Olá, Sejam bem-vindos eu sou Leandro Pinheiro Leite ✌🏻
+### Olá, sejam bem-vindos! Eu sou Leandro Pinheiro Leite ✌🏻
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-pinheiro-leite-277265195/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/leandro-pinheiro-leite-277265195/)
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor de Software com foco em **Sistemas Embarcados**, **Meios de Pagamento (EMV)** e desenvolvimento **Backend**.
+Desenvolvedor de Software com foco em **Sistemas Embarcados**, **Meios de Pagamento (EMV)**, **Backend** e **Desenvolvimento de Games**.
 
 Atuo no desenvolvimento de soluções para terminais de pagamento, integração entre hardware e software, protocolos de comunicação, SDKs, APIs, automação de testes e ferramentas de diagnóstico.
 
-Tenho experiência em desenvolvimento de aplicações multiplataforma utilizando C/C++, Node.js e Python, além de bancos de dados SQL, Linux e integração com dispositivos USB/HID.
+Tenho experiência no desenvolvimento de aplicações multiplataforma utilizando **C/C++, Node.js e Python**, bancos de dados SQL, Linux e integração com dispositivos USB/HID.
+
+Também desenvolvo projetos independentes de **Games 2D utilizando Godot Engine e GDScript**, explorando mecânicas de gameplay, sistemas de combate, inteligência artificial de inimigos, interfaces, animações e desenvolvimento multiplataforma.
 
 ---
 
@@ -25,20 +27,34 @@ Tenho experiência em desenvolvimento de aplicações multiplataforma utilizando
 <img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-<br>
+<br><br>
+
+### 🎮 Game Development
+
+<img align="center" alt="Godot Engine" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+<img align="center" alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+<img align="center" alt="Game Development" src="https://img.shields.io/badge/Game_Development-000000?style=for-the-badge&logo=gamejolt&logoColor=white"/>
+
+<br><br>
+
+### 🗄️ Banco de Dados
 
 <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<br>
+<br><br>
+
+### 🛠️ DevOps & Ferramentas
 
 <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img align="center" alt="VSCode" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<br>
+<br><br>
+
+### 💻 Sistemas Operacionais
 
 <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -51,34 +67,42 @@ Tenho experiência em desenvolvimento de aplicações multiplataforma utilizando
 
 ### 💳 Especialidades
 
-- Embedded Systems
-- Payment Systems
-- EMV
-- Smart Cards
-- Contactless Payments
-- NFC
-- POS Terminals
-- USB HID
-- SDK Development
-- API Development
-- Test Automation
-- SQL
-- Linux
-- Device Communication
-- ISO 8583
-- PCI DSS
-- Firmware Development
-- Backend Development
-- System Integration
-- Troubleshooting
+* Embedded Systems
+* Firmware Development
+* Payment Systems
+* EMV
+* Smart Cards
+* Contactless Payments
+* NFC
+* POS Terminals
+* USB HID
+* SDK Development
+* API Development
+* Backend Development
+* Test Automation
+* SQL
+* Linux
+* Device Communication
+* ISO 8583
+* PCI DSS
+* System Integration
+* Troubleshooting
+* 🎮 Game Development
+* 🎮 Godot Engine
+* 🎮 GDScript
+* 🎮 2D Game Development
+* 🎮 Gameplay Programming
+* 🎮 Game Mechanics
 
 ---
 
 ### 📌 Atualmente
 
-- 💳 Desenvolvimento de soluções para Meios de Pagamento
-- ⚙️ Sistemas Embarcados em C/C++
-- 🚀 Desenvolvimento Backend com Node.js
-- 🤖 Ferramentas de Automação
-- 🧠 Projetos com Inteligência Artificial
-- 🐧 Linux • Windows • macOS
+* 💳 Desenvolvimento de soluções para **Meios de Pagamento**
+* ⚙️ Desenvolvimento de **Sistemas Embarcados em C/C++**
+* 🚀 Desenvolvimento **Backend com Node.js e Python**
+* 🎮 Desenvolvimento de **Games 2D com Godot Engine**
+* 🕹️ Programação de gameplay utilizando **GDScript**
+* 🤖 Desenvolvimento de ferramentas de **Automação**
+* 🧠 Projetos utilizando **Inteligência Artificial**
+* 🐧 Desenvolvimento multiplataforma em **Linux • Windows • macOS**
