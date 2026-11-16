@@ -4,13 +4,97 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor de Software com foco em **Sistemas Embarcados**, **Meios de Pagamento (EMV)**, **Backend** e **Desenvolvimento de Games**.
+Sou **Desenvolvedor de Software** com experiência em **C/C++, Sistemas Embarcados, Meios de Pagamento (EMV), Backend, Automação, Análise de Dados e Desenvolvimento de Games**.
 
-Atuo no desenvolvimento de soluções para terminais de pagamento, integração entre hardware e software, protocolos de comunicação, SDKs, APIs, automação de testes e ferramentas de diagnóstico.
+Possuo um perfil técnico multidisciplinar, atuando desde o desenvolvimento de software de baixo nível, integração entre hardware e software e comunicação com dispositivos até a construção de **APIs, aplicações multiplataforma, ferramentas de diagnóstico, sistemas de monitoramento e soluções de automação**.
 
-Tenho experiência no desenvolvimento de aplicações multiplataforma utilizando **C/C++, Node.js e Python**, bancos de dados SQL, Linux e integração com dispositivos USB/HID.
+### 💳 Sistemas Embarcados e Meios de Pagamento
 
-Também desenvolvo projetos independentes de **Games 2D utilizando Godot Engine e GDScript**, explorando mecânicas de gameplay, sistemas de combate, inteligência artificial de inimigos, interfaces, animações e desenvolvimento multiplataforma.
+Tenho sólida experiência no desenvolvimento e integração de soluções para o setor de **meios de pagamento eletrônico**, trabalhando com tecnologias e protocolos como **EMV, ISO 8583, APDU, TLV, NFC/Contactless e USB/HID**.
+
+Minha atuação envolve:
+
+- Desenvolvimento e manutenção de aplicações em **C/C++ para Linux e sistemas embarcados**.
+- Integração com terminais de pagamento, leitoras de cartões, periféricos e SDKs.
+- Implementação, análise e diagnóstico de protocolos de comunicação.
+- Análise de transações EMV, mensagens APDU, estruturas TLV e fluxos de autorização.
+- Desenvolvimento de ferramentas para testes, simulação, troubleshooting e análise de logs.
+- Automação de testes, validação de funcionalidades e suporte a processos de certificação.
+
+### ⚙️ Backend, APIs e Automação
+
+Desenvolvo soluções utilizando **Node.js, TypeScript, Python e C/C++**, com foco em integração de sistemas, processamento de dados e automação de processos.
+
+Tenho experiência com:
+
+- Desenvolvimento e integração de **APIs REST**.
+- Construção de serviços backend e aplicações multiplataforma.
+- Integração com bancos de dados **PostgreSQL, SQL Server e Oracle**.
+- Desenvolvimento de scripts, ferramentas CLI e rotinas automatizadas.
+- Processamento, extração e transformação de dados (**ETL**).
+- Integração com serviços externos, webhooks e sistemas de terceiros.
+- Criação de relatórios automatizados, dashboards e ferramentas de análise operacional.
+
+### 📊 Dados, Monitoramento e Infraestrutura
+
+Atuo também no desenvolvimento de soluções para **observabilidade, monitoramento, análise de dados e diagnóstico de sistemas**.
+
+Tenho experiência com **Linux, Docker, Git, SQL, Python e ferramentas de monitoramento**, desenvolvendo soluções para acompanhamento de transações, indicadores operacionais, análise de erros e identificação de falhas.
+
+Possuo interesse em ampliar minha atuação em **Cloud Computing (AWS/Azure), DevOps, CI/CD e arquitetura de sistemas distribuídos**.
+
+### 🎮 Desenvolvimento de Games
+
+Além da minha atuação profissional, desenvolvo projetos independentes de **jogos 2D utilizando Godot Engine e GDScript**, explorando diferentes gêneros e mecânicas de gameplay.
+
+Meus projetos envolvem:
+
+- Desenvolvimento de sistemas de movimentação, combate e interação.
+- Implementação de **inteligência artificial para inimigos e NPCs**.
+- Criação de interfaces, menus e gerenciamento de estados.
+- Integração de animações, efeitos visuais e sistemas de áudio.
+- Desenvolvimento de mecânicas, progressão e lógica de gameplay.
+- Prototipação e publicação de jogos independentes.
+
+Também exploro o desenvolvimento de jogos e simulações utilizando **C++**, buscando aprofundar conhecimentos em algoritmos, estruturas de dados, gerenciamento de memória e arquitetura de software.
+
+### 🎮 Meus Jogos Independentes
+
+Desenvolvo jogos independentes utilizando Godot Engine,
+GDScript e C++, explorando mecânicas de gameplay,
+inteligência artificial e desenvolvimento multiplataforma.
+
+🕹️ Conheça meus projetos publicados:
+
+[![itch.io](https://img.shields.io/badge/itch.io-LPL%20Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://lpl-games.itch.io)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens:** C, C++, Python, JavaScript, TypeScript, SQL, C#, PHP e GDScript.
+
+**Backend e Integrações:** Node.js, Express, APIs REST, Webhooks, SDKs e automação.
+
+**Bancos de Dados:** PostgreSQL, SQL Server, Oracle e SQLite.
+
+**Sistemas e Infraestrutura:** Linux, Windows, macOS, Docker, Git, Shell Script e WSL.
+
+**Embarcados e Pagamentos:** EMV, ISO 8583, NFC, APDU, TLV, USB/HID, Contactless e integração hardware/software.
+
+**Games e Mobile:** Godot Engine, GDScript, Flutter e React Native/Expo.
+
+**Áreas de interesse:** Engenharia de Software, Backend, Cloud Computing, DevOps, Inteligência Artificial, Sistemas Embarcados, Automação e Game Development.
+
+---
+
+### 🚀 Objetivo
+
+Meu objetivo é desenvolver **soluções tecnológicas eficientes, escaláveis e confiáveis**, aplicando minha experiência em diferentes áreas da engenharia de software.
+
+Utilizo este GitHub para compartilhar **projetos pessoais, ferramentas de desenvolvimento, experimentos técnicos, automações, simuladores, aplicações e jogos independentes**, além de registrar minha evolução contínua como desenvolvedor.
+
+**Sempre explorando novas tecnologias, resolvendo problemas reais e transformando ideias em software.**
 
 ---
 
